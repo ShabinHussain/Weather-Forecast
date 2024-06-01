@@ -64,6 +64,7 @@ body{
    overflow: hidden;
    margin-top: 10px;
    border-radius: 30px;
+   height: 710px;
   
 }
 
@@ -83,7 +84,7 @@ body{
     .div2{
       margin-top: -5px;
       border-radius: 0px;
-      height: 780px;
+      height: 750px;
       }
  }
 
