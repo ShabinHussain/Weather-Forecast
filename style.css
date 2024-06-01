@@ -64,8 +64,6 @@ body{
    overflow: hidden;
    margin-top: 10px;
    border-radius: 30px;
-   width: 400px; 
-   height: 710px;
   
 }
 
@@ -83,9 +81,9 @@ body{
 
 @media (max-width: 600px) {
     .div2{
-      margin-top: 0px;
+      margin-top: -5px;
       border-radius: 0px;
-      height: 730px;
+      height: 750px;
       }
  }
 
